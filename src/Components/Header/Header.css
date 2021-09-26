@@ -1,9 +1,16 @@
-.header{
-    text-align: center;
-    background-color: rgb(131, 228, 223);
- padding: 10px;
-
+.header {
+  text-align: justify;
+  background-color: rgb(131, 228, 223);
+  padding: 10px 50px;
+  margin: 0 auto;
 }
-.description{
-    margin: 30px;
+
+.paid__list {
+  font-size: 24px;
+  text-align: justify;
+  font-weight: 500;
+  margin: 10px;
+}
+.paid__list > span {
+  margin: 0 10px;
 }

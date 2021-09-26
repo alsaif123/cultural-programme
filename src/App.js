@@ -1,22 +1,11 @@
+import "./App.css";
 
-import './App.css';
-
-import Informations from './Components/Informations/Informations';
-
+import Informations from "./Components/Informations/Informations";
 
 function App() {
-
- 
-
-
   return (
     <div className="App">
-      
-      
-    <Informations></Informations>
-   
-  
-      
+      <Informations></Informations>
     </div>
   );
 }
